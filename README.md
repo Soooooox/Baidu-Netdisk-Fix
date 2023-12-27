@@ -100,4 +100,11 @@
 
 <span class="step">Step4：</span>将`duiengineskin.zip`属性设置为`只读`  
 
-> 最好修改前先复制一份`duiengineskin.zip`，避免程序崩溃需要重装  
+> 最好修改前先复制一份`duiengineskin.zip`，避免程序崩溃需要重装
+
+# 参考链接
+
+> - [删除自动更新](https://zhuanlan.zhihu.com/p/645259468)
+> - [网盘一个清爽的界面](https://www.bilibili.com/video/BV1QK4y1n7Qz)
+> - [百度云盘历史版本](https://www.bilibili.com/read/cv22449371/)
+
