@@ -39,10 +39,7 @@
 </br>
 
 **设置区域**：
-<center>
-<img src="https://raw.githubusercontent.com/Soooooox/Image/main/202312071614006.png" alt="image-20231207161444948" width="70%"/>
-
-</center>
+<center><img src="https://raw.githubusercontent.com/Soooooox/Image/main/202312071614006.png" alt="image-20231207161444948" width="70%"/></center>
 
 > 设置区域分为3块：  
 > 1. 序号1：工具侧边栏
