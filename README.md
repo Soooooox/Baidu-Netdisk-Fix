@@ -105,21 +105,3 @@
 > - [网盘一个清爽的界面](https://www.bilibili.com/video/BV1QK4y1n7Qz)
 > - [百度云盘历史版本](https://www.bilibili.com/read/cv22449371/)
 
-<details>
-<summary>11111</summary>
-
-这就是折叠内容
-
-</details>
-
-| 标题1            |       标题2        |             标题3 |
-| :--------------- | :----------------: | ----------------: |
-| 居左：alt="left" | 居中：alt="center" | 居右：alt="right" |
-| x                |         y          |                 z |
-
-| 表头1  |   表头2   |   表头3   |
-| :---: | :-------: | :-------: |
-|   A   | B         |          C|
-|    `表格内代码`   |           |           |
-|       |           |           |
-
