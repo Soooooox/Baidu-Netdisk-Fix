@@ -105,3 +105,10 @@
 > - [网盘一个清爽的界面](https://www.bilibili.com/video/BV1QK4y1n7Qz)
 > - [百度云盘历史版本](https://www.bilibili.com/read/cv22449371/)
 
+<details>
+<summary>11111</summary>
+
+这就是折叠内容
+
+</details>
+
